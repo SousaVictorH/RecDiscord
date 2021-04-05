@@ -9,7 +9,7 @@ The main goal of this project is to improve my skills with React and Styled Comp
   
 <div>
   <h3>Default Page</h3>
-  <img src="https://github.com/SousaVictorH/Slack2.0/blob/master/slack2/public/videos/slackLogin.gif" alt="Login">
+  <img src="https://github.com/SousaVictorH/RecDiscord/blob/master/clone-discord/public/videos/discord.gif" alt="Login">
 </div>
 
 ###  :hammer: Made with
