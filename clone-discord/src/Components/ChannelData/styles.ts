@@ -38,7 +38,7 @@ export const Messages = styled.div`
 
 export const InputWrapper = styled.div`
     width: 100%;
-
+    height: 52px;
     padding: 0 16px;
 `;
 
@@ -70,4 +70,6 @@ export const InputIcon = styled(AlternateEmail)`
     width: 24px;
     height: 24px;
     color: var(--gray);
+
+    display: none;
 `;
