@@ -9,7 +9,7 @@ The main goal of this project is to improve my skills with React and Styled Comp
   
 <div>
   <h3>Default Page</h3>
-  <img src="https://github.com/SousaVictorH/RecDiscord/blob/master/clone-discord/public/videos/discord.gif" alt="Default">
+  <img src="https://github.com/SousaVictorH/RecDiscord/blob/master/public/videos/discord.gif" alt="Default">sss
 </div>
 
 ###  :hammer: Made with
